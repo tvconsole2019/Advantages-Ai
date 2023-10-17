@@ -11,6 +11,6 @@
 		"Earn [100]% of killed [All] unit's [Strength] as [Culture]", "[+75]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+50]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
 		"Earn [100]% of killed [All] unit's [Strength] as [Faith]", "[Military] units gain the [March] promotion", "[1] Movement <for [All] units>", "[Military] units gain the [Stronk] promotion",
 		"Earn [100]% of killed [All] unit's [Strength] as [Science]"]
-		"requiredTech": "Player"
+		"requiredTech": "Agriculture"
 	},
 ]
