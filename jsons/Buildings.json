@@ -6,6 +6,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Only available <before discovering [AI Demise]>",
+		"Limited to [1] per Civilization",
 		"Notified of new Barbarian encampments", "All healing effects doubled",
 		"Earn [100]% of killed [All] unit's [Strength] as [Gold]", "[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 		"Earn [100]% of killed [All] unit's [Strength] as [Culture]", "[+75]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+50]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
