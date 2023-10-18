@@ -7,11 +7,11 @@
 		"maintenance": 0,
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Only available <before discovering [AI Demise]>",
 		"Limited to [1] per Civilization", 
-		"Notified of new Barbarian encampments", "All healing effects doubled", "[+25]% Strength <for [All] units> <when attacking>",
-		"Earn [100]% of killed [All] unit's [Strength] as [Gold]", "[+50]% Production when constructing [Military] units [in all cities] <when at war>",
-		"Earn [100]% of killed [All] unit's [Strength] as [Culture]", "[+75]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+50]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
-		"Earn [100]% of killed [All] unit's [Strength] as [Faith]", "[Military] units gain the [March] promotion", "[1] Movement <for [All] units>", "[Military] units gain the [Stronk] promotion",
-		"Earn [100]% of killed [All] unit's [Strength] as [Science]"]
+		"Notified of new Barbarian encampments", "All healing effects doubled", "[+50]% Strength <for [All] units> <when attacking>",
+		"Earn [100]% of killed [All] unit's [Cost] as [Gold]", "[+50]% Production when constructing [Military] units [in all cities] <when at war>",
+		"Earn [100]% of killed [All] unit's [Cost] as [Culture]", "[+75]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <when at war>", "[+50]% Strength <for [All] units> <when fighting in [Foreign Land] tiles> <when at war>",
+		"Earn [100]% of killed [All] unit's [Cost] as [Faith]", "[Military] units gain the [March] promotion", "[1] Movement <for [All] units>", "[Military] units gain the [Stronk] promotion",
+		"Earn [100]% of killed [All] unit's [Cost] as [Science]"]
 		"requiredTech": "Agriculture"
 	},
 	{
