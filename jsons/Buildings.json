@@ -1,7 +1,7 @@
 
 [
 	{
-		"name": "Hacker",
+		"name": "Pro",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
@@ -14,29 +14,37 @@
 		"Earn [100]% of killed [All] unit's [Strength] as [Science]", "City-State territory always counts as friendly territory", "City-State Influence recovers at twice the normal rate",
 		"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns", "Allied City-States will occasionally gift Great People",
 		"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States", "[+50]% [Gold] from City-States", "[+50]% [Science] from City-States",
-	        "May choose [1] additional [Founder] beliefs when [founding] a religion"]
+	        "May choose [1] additional [Founder] beliefs when [founding] a religion", "Damage is ignored when determining unit Strength"]
 		"requiredTech": "Agriculture"
+	},
+	{
+		"name": "Hacker",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured", "Limited to [1] per Civilization",
+		    "Science gained from research agreements [-99]%",
+		    "[-25]% Production towards any buildings that already exist in the Capital"]
+		"requiredTech": "AI Demise"
 	},
 	{
 		"name": "God",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured", "Limited to [1] per Civilization",
+		"uniques": ["Destroyed when the city is captured",
 		    "[-50]% Production when constructing [All] wonders [in this city]",
                     "[-50]% Yield from every [Natural Wonder]",
-                    "[-20]% [Culture] [in all cities] <starting from the [Classical era]>", 
-		    "[-20]% [Culture] [in all cities] <starting from the [Medieval era]>", 
-		    "[-20]% [Science] [in all cities]",
-		    "[-20]% [Science] [in all cities] <starting from the [Medieval era]>",
-	            "[-20]% [Production] [in all cities] <when at war>",
-                    "[-20]% [Faith] [in all cities] <starting from the [Classical era]>", 
-	            "[-10]% [Food] [in all cities]", 
-		    "[-10]% [Production] [in all cities]", 
-		    "[-20]% [Gold] [in all cities] <starting from the [Classical era]>",
-		    "[-20]% [Gold] [in all cities] <starting from the [Medieval era]>",
-		    "Science gained from research agreements [-99]%",
-		    "[-25]% Production towards any buildings that already exist in the Capital"]
+                    "[-20]% [Culture] [in this city] <starting from the [Classical era]>", 
+		    "[-20]% [Culture] [in this city] <starting from the [Medieval era]>", 
+		    "[-20]% [Science] [in this city]",
+		    "[-20]% [Science] [in this city] <starting from the [Medieval era]>",
+	            "[-20]% [Production] [in this city] <when at war>",
+                    "[-20]% [Faith] [in this city] <starting from the [Classical era]>", 
+	            "[-10]% [Food] [in this city]", 
+		    "[-10]% [Production] [in this city]", 
+		    "[-20]% [Gold] [in this city] <starting from the [Classical era]>",
+		    "[-20]% [Gold] [in this city] <starting from the [Medieval era]>"]
 		"requiredTech": "AI Demise"
 	},
 ]
